@@ -77,7 +77,9 @@ Example Input/Output
     > +
     16
     
-     Made with ❤️ by [Yafet](https://github.com/Yafet-Segid)
+    
+ Made with ❤️ by Yafet
+  
 
     
     
