@@ -3,7 +3,6 @@
 ![Calculator with Javascript and NodeJs](https://user-images.githubusercontent.com/83928646/180323381-a9a5dae8-4b46-405c-ae7a-aa7599fc92ac.gif)
 
 RPN CLI is a Reverse Polish Notation (RPN) calculator for the command line. With RPN CLI, you can execute RPN functions in the command line.
-Application based on Code Sample 
 
 - The main technologies used are : JavaScript, Nodejs, Readline.
 - This project run on CLI.
