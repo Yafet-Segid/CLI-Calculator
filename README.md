@@ -6,7 +6,7 @@ RPN CLI is a Reverse Polish Notation (RPN) calculator for the command line.
 
 Application based on Code Sample 
 
-- The main technologies used are : JavaScript, and Nodejs.
+- The main technologies used are : JavaScript, Nodejs, Readline.
 - This project run on CLI. 
 
 
