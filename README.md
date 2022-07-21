@@ -9,7 +9,7 @@ RPN CLI is a Reverse Polish Notation (RPN) calculator for the command line. With
 
 
 ### [JavaScript](https://www.javascript.com/)
-I choose JavaScript because it's the language of the web, which gives it completely unparalleled reach and portability. It's also quite fast, and reasonably sophisticated. This means you can create a very wide range of applications with it (web pages, interactive offline apps, 3d animations, and games), that you can easily transfer to any platform. 
+I choose JavaScript because it's the language of the web, which gives it completely unparalleled reach and portability. It's also quite fast, and reasonably sophisticated. This means you can create a very wide range of applications with it web pages, interactive offline apps, and games.
 
 ### [NodeJs](http://nodejs.org/)
 By using nodejs, you can build your own front-end server using only JS.
