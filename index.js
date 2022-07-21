@@ -78,7 +78,7 @@ keyboard.on('line', function (command) {
     input = input.filter(item => item != '')
 
 
-    // This code is being used to handle different types of errors and outputs
+    // This code is being used to handle different types of errors and outputs.
     try {
         ans = calculate(input);
         displayFlag = true; // Display output
