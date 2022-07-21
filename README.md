@@ -25,7 +25,7 @@ The Readline module provides a way of reading a datastream, one line at a time.
 const readline = require('readline');
 ```
 
-## Getting started
+# Getting started
 
 Clone this project:
 ```bash
