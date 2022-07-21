@@ -1,7 +1,7 @@
 # Awesome CLI Calculator projects
 
+![Calculator with Javascript and NodeJs](https://user-images.githubusercontent.com/83928646/180323381-a9a5dae8-4b46-405c-ae7a-aa7599fc92ac.gif)
 
-https://user-images.githubusercontent.com/83928646/180323074-98164552-dab0-49d7-bfd9-e9e6ccf3b54b.mov
 
 
 Application based on Code Sample 
