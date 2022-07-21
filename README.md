@@ -9,16 +9,16 @@ Application based on Code Sample
 - This project run on CLI.
 
 
-# [JavaScript](https://www.javascript.com/)
+### [JavaScript](https://www.javascript.com/)
 I choose JavaScript because it's the language of the web, which gives it completely unparalleled reach and portability. It's also quite fast, and reasonably sophisticated. This means you can create a very wide range of applications with it (web pages, interactive offline apps, 3d animations, and games), that you can easily transfer to any platform. 
 
-# [NodeJs](http://nodejs.org/)
+### [NodeJs](http://nodejs.org/)
 By using nodejs, you may build your own front-end server using only JS.
 You are no longer have to rely on PHP, Java, or.net.
 You will have the ability to write your application without depending on the backend thanks to this.
 You may now write your own services, build your own server, and other things. 
 
-# [Readline](https://nodejs.org/api/readline.html)
+### [Readline](https://nodejs.org/api/readline.html)
 The Readline module provides a way of reading a datastream, one line at a time.
 
 ```bash
