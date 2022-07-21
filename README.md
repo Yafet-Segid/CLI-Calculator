@@ -58,6 +58,14 @@ Valid operations are +, -, *, /.
 Example Input/Output
 --------------------
  
+    > 12
+    12
+    > 5
+    5
+    > +
+    17
+
+---
 
     > 5 5 5 8 + + -
     -13
