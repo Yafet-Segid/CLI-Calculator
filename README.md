@@ -57,7 +57,7 @@ Valid operations are +, -, *, /.
 
 Example Input/Output
 --------------------
-
+ 
 
     > 5 5 5 8 + + -
     -13
@@ -76,7 +76,10 @@ Example Input/Output
     10
     > +
     16
-    
+  
+  ---
+  
+
     
  Made with ❤️ by Yafet
   
