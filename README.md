@@ -42,7 +42,7 @@ Start app:
 Node index.js
 ```
 
-For instance, the equation 5 1 2 + 4 * + 3 - (which, in conventional notation, reads as 5 + ((1 + 2) * 4) - 3)) should evaluate to 14.
+For instance, the equation 4 2 3 + 4 * + 9 - (which, in conventional notation, reads as 4 + ((2 + 3) * 4) - 9)) should evaluate to 15.
 
 
 The input is set up so that there is a space between each token for your convenience.
