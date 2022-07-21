@@ -20,7 +20,9 @@ You may now write your own services, build your own server, and other things.
 # [Readline](https://nodejs.org/api/readline.html)
 The Readline module provides a way of reading a datastream, one line at a time.
 
+```bash
 const readline = require('readline');
+```
 
 ## Getting started
 
