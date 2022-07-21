@@ -31,11 +31,6 @@ Clone this project:
 git clone https://github.com/Yafet-Segid/CLI-RPN-Calculator.git
 ```
 
-Install [node.js](http://nodejs.org/). Then install the project dependencies:
-```bash
-npm install
-```
-
 No configuration or complicated folder structures, only the files you need to build your app.
 Once the installation is done, you can open your project folder:
 
@@ -44,6 +39,10 @@ cd CLI-RPN-Calculator
 ```
 Inside the newly created project, you can run some built-in commands:
 
+Install [node.js](http://nodejs.org/). Then install the project dependencies:
+```bash
+npm install
+```
 
 Start app:
 ```bash
