@@ -1,6 +1,6 @@
    # Awesome CLI Calculator 
 
-![Screen-Recording-2022-07-21-at-5](https://user-images.githubusercontent.com/83928646/180352560-54dd3806-e9c6-4df7-9158-7b8fee4e4cd8.gif)
+![Screen-Recording-2022-07-21-at-9](https://user-images.githubusercontent.com/83928646/180353580-67a80e3e-e03c-4acd-a96f-f11879c37ca7.gif)
 
 RPN CLI is a Reverse Polish Notation (RPN) calculator for the command line. With RPN CLI, you can execute RPN functions in the command line.
 
