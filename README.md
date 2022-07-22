@@ -1,4 +1,4 @@
-   #              Awesome CLI Calculator 
+   # Awesome CLI Calculator 
 
 ![Calculator with Javascript and NodeJs](https://user-images.githubusercontent.com/83928646/180323381-a9a5dae8-4b46-405c-ae7a-aa7599fc92ac.gif)
 
