@@ -28,7 +28,7 @@ const readline = require('readline');
 
 Clone this project:
 ```bash
-git clone https://github.com/Yafet-Segid/CLI-RPN-Calculator.git
+git clone https://github.com/Yafet-Segid/Cli_Calculator.git
 ```
 
 No configuration or complicated folder structures, only the files you need to build your app.
